@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: ./CSEL.jpg
+heroImage: https://picui.ogmua.cn/s1/2026/02/28/69a2e34dbbeca.webp
 actions:
   - text: 文章
     link: /article/

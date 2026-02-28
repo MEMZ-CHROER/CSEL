@@ -28,17 +28,15 @@ export const routes = Object.fromEntries([
   ["/tag/", { loader: () => import(/* webpackChunkName: "tag_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/index.html.js"), meta: {"title":"标签"} }],
   ["/tag/wwi/", { loader: () => import(/* webpackChunkName: "tag_wwi_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/wwi/index.html.js"), meta: {"title":"标签 WWI"} }],
   ["/tag/wwii/", { loader: () => import(/* webpackChunkName: "tag_wwii_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/wwii/index.html.js"), meta: {"title":"标签 WWII"} }],
-  ["/tag/tag-a/", { loader: () => import(/* webpackChunkName: "tag_tag-a_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/tag-a/index.html.js"), meta: {"title":"标签 tag A"} }],
-  ["/tag/tag-b/", { loader: () => import(/* webpackChunkName: "tag_tag-b_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/tag-b/index.html.js"), meta: {"title":"标签 tag B"} }],
+  ["/tag/websitelog/", { loader: () => import(/* webpackChunkName: "tag_websitelog_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/websitelog/index.html.js"), meta: {"title":"标签 WebsiteLog"} }],
+  ["/tag/admin/", { loader: () => import(/* webpackChunkName: "tag_admin_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/admin/index.html.js"), meta: {"title":"标签 Admin"} }],
   ["/tag/tag-c/", { loader: () => import(/* webpackChunkName: "tag_tag-c_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/tag-c/index.html.js"), meta: {"title":"标签 tag C"} }],
   ["/tag/tag-d/", { loader: () => import(/* webpackChunkName: "tag_tag-d_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/tag-d/index.html.js"), meta: {"title":"标签 tag D"} }],
+  ["/tag/tag-a/", { loader: () => import(/* webpackChunkName: "tag_tag-a_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/tag-a/index.html.js"), meta: {"title":"标签 tag A"} }],
+  ["/tag/tag-b/", { loader: () => import(/* webpackChunkName: "tag_tag-b_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/tag-b/index.html.js"), meta: {"title":"标签 tag B"} }],
   ["/tag/tag-e/", { loader: () => import(/* webpackChunkName: "tag_tag-e_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/tag-e/index.html.js"), meta: {"title":"标签 tag E"} }],
   ["/article/", { loader: () => import(/* webpackChunkName: "article_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/article/index.html.js"), meta: {"title":"文章"} }],
   ["/timeline/", { loader: () => import(/* webpackChunkName: "timeline_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/timeline/index.html.js"), meta: {"title":"时间轴"} }],
-  ["/tag/websitelog/", { loader: () => import(/* webpackChunkName: "tag_websitelog_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/websitelog/index.html.js"), meta: {"title":"标签 WebsiteLog"} }],
-  ["/tag/admin/", { loader: () => import(/* webpackChunkName: "tag_admin_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/admin/index.html.js"), meta: {"title":"标签 Admin"} }],
-  ["/tag/websitelog/", { loader: () => import(/* webpackChunkName: "tag_websitelog_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/websitelog/index.html.js"), meta: {"title":"标签 WebsiteLog"} }],
-  ["/tag/admin/", { loader: () => import(/* webpackChunkName: "tag_admin_index.html" */"I:/CSEL/docs/.vuepress/.temp/pages/tag/admin/index.html.js"), meta: {"title":"标签 Admin"} }],
 ]);
 
 if (import.meta.webpackHot) {
