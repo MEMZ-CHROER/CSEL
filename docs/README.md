@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: https://vuejs.press/images/hero.png
+heroImage: ./CSEL.jpg
 actions:
   - text: 文章
     link: /article/
