@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: https://picui.ogmua.cn/s1/2026/02/28/69a2e34dbbeca.webp
+heroImage: https://cdn4.winhlb.com/2026/03/11/69b17865c9add.jpg
 actions:
   - text: 文章
     link: /article/

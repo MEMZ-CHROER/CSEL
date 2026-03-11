@@ -10,7 +10,7 @@ export default defineUserConfig({
   description: 'CSEL 官方网站',
 
   theme: defaultTheme({
-    logo: 'https://picui.ogmua.cn/s1/2026/02/28/69a2e34dbbeca.webp',
+    logo: 'https://cdn4.winhlb.com/2026/03/11/69b17b8e918dc.jpg',
 
     navbar: [
       '/',
