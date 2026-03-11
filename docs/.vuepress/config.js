@@ -30,6 +30,10 @@ export default defineUserConfig({
         text: '时间线',
         link: '/timeline/',
       },
+      {
+        text: 'Vercel Web Analytics',
+        link: '/vercel-web-analytics.html',
+      },
     ],
   }),
 
